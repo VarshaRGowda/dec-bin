@@ -1,6 +1,6 @@
 //Java Program for printing pyramid pattern.
 
-
+//simple pyramid pattern
 import java.io.*;
  
 
@@ -25,7 +25,7 @@ public class GeeksForGeeks
                 System.out.print("* ");
             }
  
-      
+      //ending line after each row 
             System.out.println();
         }
    }
